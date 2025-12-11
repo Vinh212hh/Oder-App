@@ -5,8 +5,6 @@ ASYNCHRONOUS ORDER PROCESSING SYSTEM
 
 USING RABBITMQ
 
-Course: Startup / Distributed Systems (fill in actual course name)
-
 # Group: 4
 
 Student(s): Trịnh Quang Vinh-Phùng Văn Nghĩa
